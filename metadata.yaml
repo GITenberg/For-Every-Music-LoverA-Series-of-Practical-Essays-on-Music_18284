@@ -1,0 +1,35 @@
+_repo: For-Every-Music-LoverA-Series-of-Practical-Essays-on-Music_18284
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 18284-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Moore, Aubertine Woodward
+    birthdate: 1841
+    deathdate: 1929
+    gutenberg_agent_id: '7921'
+    url: http://www.gutenberg.org/2009/agents/7921
+    wikipedia: http://www.wisconsinhistory.org/dictionary/index.asp?action=view&term_id=1408&letter=M
+description: ''
+gutenberg_bookshelf: Music
+gutenberg_issued: '2006-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18284'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ML'
+- !lcsh 'Music -- History and criticism'
+tableOfContents: 'Preface -- The origin and function of music -- Blunders in music
+  study -- The musical education that educates -- How to interpret music -- How to
+  listen to music -- The piano and piano players -- The poetry and leadership of Chopin
+  -- Violins and violinists: fact and fable -- Queens of song -- The opera and its
+  reformers -- Certain famous oratorios -- Symphony and symphonic poem.'
+title: 'For Every Music Lover
+
+  A Series of Practical Essays on Music'
+url: http://www.gutenberg.org/ebooks/18284
