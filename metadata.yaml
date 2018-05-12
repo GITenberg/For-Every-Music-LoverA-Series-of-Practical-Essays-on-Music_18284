@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7921
     wikipedia: http://www.wisconsinhistory.org/dictionary/index.asp?action=view&term_id=1408&letter=M
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18284#For-Every-Music-LoverA-Series-of-Practical-Essays-on-Music
 gutenberg_bookshelf: Music
 gutenberg_issued: '2006-04-29'
 gutenberg_type: Text
